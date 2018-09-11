@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Exchange PowerShell - XmlException: For security reasons DTD is prohibited in this XML document.
+title: Exchange PowerShell | XmlException - For security reasons DTD is prohibited in this XML document.
 date: 2018-09-11 20:00
 category: 
 tags: [exchange, powershell, exception, isp]
