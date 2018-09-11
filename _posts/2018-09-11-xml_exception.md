@@ -6,8 +6,8 @@ category:
 tags: [exchange, powershell, exception, isp]
 excerpt: Strange error when trying to connect to Exchange via PowerShell
 header: 
-  teaser: /content/2018/markdown.png
-og_image: /content/2018/markdown.png
+  teaser: /content/2018/2018-09-11 20_19_17-Advanced Network Error Search.png
+og_image: /content/2018/2018-09-11 20_19_17-Advanced Network Error Search.png
 ---
 
 I was working from home today and was trying to connect to Exchange Online via PowerShell. Every time I tried to connect I would get the following error:
